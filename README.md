@@ -28,7 +28,7 @@ uso esa ventaja para conectar producto, datos y adquisición.
 | **Farmacia offline** | 103 tests, auditoría de 43.820 unidades, despliegue sin internet | `farmacia-caso-estudio` |
 | **Remesas VE→CO** | 11.982 registros, 4 modos de cálculo, operaciones reales | `remesas-ve-co` |
 | **Mini Frontier Lab** | 796 ejecuciones, benchmark 15/15, pipeline de voz | `mini-frontier-lab` |
-| **PY//ARCADE** | PWA educativa live, 45 tests | `aprende-python` |
+| **PY//ARCADE** | PWA publicada, 45 tests | `aprende-python` |
 | **Ads + edición** | Campaña para negocio local con resultado medible | `ads-editorial-kit` |
 
 ## Stack
