@@ -1,98 +1,48 @@
-# 👋 Hola, soy Richard Ruiz
+# Richard Ruiz
 
-### Especialista en Marketing Digital y Redes Sociales · IA aplicada · Automatización con Linux
+### Python + AI automation + ads · Sistemas offline · Datos
 
-> 📍 Caracas, Venezuela · Español nativo · Inglés B1 (lectura técnica) · Abierto a proyectos remotos de **AI Training**
-
----
-
-## 🙋 Sobre mí
-
-Soy **especialista en marketing digital y redes sociales** (diplomado, 130 horas académicas — ISUM) y desde 2024 trabajo con negocios locales —óptica, veterinaria y fisioterapia— creando contenido, gestionando redes y corriendo campañas en **Meta Ads y Google Ads**.
-
-También me apasiona exprimir la tecnología: uso a diario asistentes de IA (**ChatGPT, Claude, DeepSeek, Qwen**), construyo pequeñas herramientas web con ayuda de IA (**React + TypeScript**) y convertí mi laptop con **Linux (Xubuntu)** en una estación de trabajo a mi medida, con scripts y automatizaciones.
-
-Me interesa especialmente el **AI training**: escribir prompts, evaluar respuestas de modelos y crear/curar datos de calidad en español.
+Construyo software que funciona sin internet y automatiza operaciones reales:
+inventario farmacéutico, remesas VE→CO y agentes locales. Vengo del marketing;
+uso esa ventaja para conectar producto, datos y adquisición.
 
 ---
 
-## 🛠️ ¿Qué sé hacer?
+## Qué construyo
 
-**📈 Marketing digital**
-- Estrategia de redes sociales y calendarios de contenido
-- Campañas de **Meta Ads** y **Google Ads** (creación, testeo, optimización)
-- **SEO**: investigación de palabras clave y optimización on-page
-- Producción de video corto: **Reels, TikTok, Stories**
-- Reportes mensuales con métricas y análisis
+- **Software offline-first:** inventario para farmacia hospitalaria (Python, SQLite, Flask, 103 tests, 90 pasan).
+- **Fintech/datos:** cotizador de remesas Venezuela→Colombia con Binance P2P y 11.982 registros de tasa BCV.
+- **IA aplicada:** agente local que planifica, ejecuta y evalúa tareas, con benchmark y voz.
+- **Marketing técnico:** edición de video + Meta Ads con caso de estudio y kit de producción.
 
-**🤖 IA aplicada**
-- **Prompt engineering** y uso avanzado de ChatGPT, Claude, DeepSeek y Qwen
-- Evaluación crítica de textos generados por IA (precisión, tono, instrucciones)
-- Desarrollo web asistido por IA (React, TypeScript, Tailwind)
+## Marketing que genera clientes
 
-**💻 Tecnología / Linux**
-- Xubuntu, terminal (Bash), VS Code, Git/GitHub
-- Automatización con scripts y personalización del escritorio
-- Diagnóstico de redes y resolución de problemas
+- **Óptica Hams (2024):** 16K+ visualizaciones, 12K vistas en TikTok, 10K seguidores en Instagram y 4 consultas directas de venta.
+- **Terapia física a domicilio:** campaña de Meta Ads con resultado medible; métricas públicas solo con permiso del cliente.
+- **Producción:** guiones, edición vertical, copies, estructura de campaña y reporte semanal.
 
----
+## Evidencia
 
-## 📈 Caso destacado — Óptica Hams (gestión de redes, 2024)
+| Proyecto | Qué prueba | Link |
+|---|---|---|
+| **Farmacia offline** | 103 tests, auditoría de 43.820 unidades, despliegue sin internet | `farmacia-caso-estudio` |
+| **Remesas VE→CO** | 11.982 registros, 4 modos de cálculo, operaciones reales | `remesas-ve-co` |
+| **Mini Frontier Lab** | 796 ejecuciones, benchmark 15/15, pipeline de voz | `mini-frontier-lab` |
+| **PY//ARCADE** | PWA publicada, 45 tests | `aprende-python` |
+| **Ads + edición** | Campaña para negocio local con resultado medible | `ads-editorial-kit` |
 
-Resultados medibles en un solo mes (reporte enero–febrero):
+## Stack
 
-- **16K+ visualizaciones** combinadas entre plataformas
-- **12K vistas en TikTok** (9.2K usuarios únicos, 72.5% audiencia nueva)
-- **10K seguidores** en Instagram (hito alcanzado durante mi gestión)
-- Embudo **TikTok (descubrimiento) → Instagram (conversión)** con 4 consultas directas de venta
+Python · SQL · SQLite · PostgreSQL · FastAPI · Flask · Linux · Git/GitHub · APIs de LLM · pandas/DuckDB · Meta Ads
 
----
+## Ahora
 
-## 🌱 ¿Qué estoy aprendiendo?
+- Cerrando el piloto de inventario offline para una farmacia.
+- Publicando el laboratorio de agentes y el kit de ads/edición.
+- Documentando el cotizador de remesas con tests y conciliación.
 
-- **Git y GitHub** a fondo (¡este portafolio es la práctica! 😄)
-- **Python y TypeScript** para automatización
-- **Evaluación de IA** (flujos de AI training)
-- **Inglés** conversacional (construyendo sobre el B1)
+## Contacto
 
----
-
-## 📂 Proyectos
-
-### 🗂️ Content Planner Web App (React 19 · TypeScript · Tailwind · Vite)
-Herramienta web de planificación de campañas y embudo de conversión
-**Reels → Stories → DM**, construida para cliente de óptica con desarrollo asistido por IA.
-
-`#react` `#typescript` `#tailwind` `#vibecoding`
-
-### 🧮 Control de Inventarios (Excel)
-Sistema de control de inventario para farmacia, diseñado con flujo de trabajo asistido por IA.
-
-`#excel` `#automatización`
-
-### 🖥️ Kit-Jair — Mi estación Linux personalizada
-Scripts y configuración para dejar Xubuntu a mi gusto:
-- Franja de noticias personalizada (conky): clima de Caracas, deportes y más
-- **Waydroid** a demanda (Android en Linux) con scripts de encendido/apagado y modo cine
-- Cambio de tema claro/oscuro y rotación de fondos con un comando
-- Kit de migración: scripts y configs para restaurar todo en una PC nueva
-
-`#bash` `#linux` `#xfce` `#automatización`
-
-### 🔍 Diagnóstico de mi red doméstica
-- Monitoreo de latencia por ping para descubrir por qué se trababa el streaming del Fire TV
-- Identifiqué que un dispositivo lejano saturaba el router y documenté la solución
-
-`#redes` `#troubleshooting`
-
----
-
-## 📬 Contacto
-
-- 💼 [LinkedIn — richardruizdigital](https://www.linkedin.com/in/richardruizdigital/)
-- 📧 Jruizrichard@gmail.com
-- 🐙 GitHub: [@Jairvibescoding](https://github.com/Jairvibescoding)
-
----
-
-> ⭐ Este README es también mi carta de presentación para proyectos de **AI training en español**.
+- LinkedIn: [richardruizdigital](https://www.linkedin.com/in/richardruizdigital/)
+- Email: Jruizrichard@gmail.com
+- GitHub: [@Jairvibescoding](https://github.com/Jairvibescoding)
